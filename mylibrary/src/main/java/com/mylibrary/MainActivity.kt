@@ -117,6 +117,7 @@ class MainActivity : AppCompatActivity() {
 //        super.attachBaseContext(LocaleHelper.onAttach(newBase))
 //    }
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         Log.e("00000 "," mylibrary MainActivity Entered!!!")
